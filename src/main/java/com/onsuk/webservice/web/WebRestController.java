@@ -1,6 +1,6 @@
 package com.onsuk.webservice.web;
 
-import com.onsuk.webservice.domain.posts.PostsRepository;
+import com.onsuk.webservice.dto.posts.PostsSaveRequestDto;
 import com.onsuk.webservice.service.PostsService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
