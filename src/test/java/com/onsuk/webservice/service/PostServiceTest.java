@@ -2,7 +2,7 @@ package com.onsuk.webservice.service;
 
 import com.onsuk.webservice.domain.posts.Posts;
 import com.onsuk.webservice.domain.posts.PostsRepository;
-import com.onsuk.webservice.web.PostsSaveRequestDto;
+import com.onsuk.webservice.dto.posts.PostsSaveRequestDto;
 import org.assertj.core.api.Assertions;
 import org.junit.After;
 import org.junit.Test;
