@@ -1,4 +1,4 @@
-package com.onsuk.webservice.web;
+package com.onsuk.webservice.dto.posts;
 
 import com.onsuk.webservice.domain.posts.Posts;
 import lombok.Builder;
